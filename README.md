@@ -6,6 +6,6 @@ However, that support is still limited - e.g. it does not support extended regul
 It does not support the GNU extensions to the a,i, and c commands to use the text following whitespace
 on the same line.
 
-So this repo is for my enhancements to sed-mode, whenever I get around to them.  As the author,
+So this repo is for my enhancements to sed-mode, whenever I get around to them.  As the author
 of sed-mode notes, needing to use sed-mode indicates possible derangement.
 Except for applications like obs-service-sed.
